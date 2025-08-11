@@ -1,4 +1,4 @@
-# bddkR <img width=150px height = 150px src="https://github.com/user-attachments/assets/2fae4c12-3db9-4ddb-86bf-375b6fc265c9" />
+# bddkR <img width=150px height = 150px src="https://github.com/user-attachments/assets/2fae4c12-3db9-4ddb-86bf-375b6fc265c9" align="right" />
 
 **Türkçe tercih edenler için:**
 ***Those who prefer English can scroll down the page.***
