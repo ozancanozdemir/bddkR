@@ -21,6 +21,8 @@
 
 ## Kurulum
 
+_Yakında CRAN'da_ 
+
 R ortamınızda paketi kullanmaya başlamak için:
 
 1. R yazılımını indirin ve kurun: https://www.r-project.org/
