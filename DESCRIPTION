@@ -1,0 +1,27 @@
+Package: bddkR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person(given = "Ozancan",
+                  family = "Ozdemir",
+                  role = c("aut", "cre"),
+                  email = "ozancanozdemir@gmail.com")
+Maintainer: Ozancan Ozdemir <ozancanozdemir@gmail.com>
+Description: The package fetches monthly financial tables and banking sector data published on the official website of the Banking Regulation and Supervision Agency (BRSA, BDDK) of Turkey and also enables you to save it as an Excel file. It is a R implementation of the Python package of [bddkdata](https://pypi.org/project/bddkdata/).    
+License: MIT + file LICENSE
+URL: https://github.com/ozancanozdemir/bddkR
+BugReports: https://github.com/ozancanozdemir/bddkR/issues
+Depends:
+    R (>= 4.0)
+Imports:
+    httr,
+    jsonlite,
+    dplyr,
+    writexl,
+    lubridate
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
